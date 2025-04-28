@@ -116,7 +116,7 @@ const AdminRegisterPage = () => {
                                 required
                                 fullWidth
                                 id="schoolName"
-                                label="Create your school name"
+                                label="Create your Collage/University name"
                                 name="schoolName"
                                 autoComplete="off"
                                 error={schoolNameError}
